@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NSIBKF
-- 👀 I’m interested in coding on C++/C#
-- 🌱 I’m currently learning Unity and Blender
+- 👀 I’m interested in coding on Kotlin,C++/C#
+- 🌱 I’m currently learning Unity, Android Studio and Blender
 
 - 📫 How to reach me - fomin.kirill02@mail.ru
 
